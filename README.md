@@ -10,4 +10,5 @@ Usando
 -Capaz de armazenar dados mesmo após mudanças de configurações
 
 ![as](https://user-images.githubusercontent.com/36930457/95028796-45652c80-0679-11eb-920e-c5cf0ad2046f.png)
+![Sem título](https://user-images.githubusercontent.com/36930457/95028821-983ee400-0679-11eb-8f80-0591490708d2.png)
 
