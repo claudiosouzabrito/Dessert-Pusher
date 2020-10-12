@@ -1,4 +1,6 @@
 # Dessert-Pusher
+Joguinho de clicar nas sobremesas
+
 Aplicativo desenvolvido no Android Studio
 
 Esse aplicativo é capaz de armazenar informações mesmo estando no backgroud
